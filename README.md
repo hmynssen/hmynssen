@@ -1,5 +1,8 @@
 - Current focus on my master deegree in physics by UFRJ
-- You can reach me at hmynssen@gmail.com
+
+-- Focus on scientific computation, usually implementing physical models
+-- Love images!
+-- And acquisition methods... MRI, Ultrasound, pictures... :)
 
 <!---
 hmynssen/hmynssen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
