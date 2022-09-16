@@ -1,7 +1,7 @@
-- Current focus on my master deegree in physics by UFRJ
+- Currently focused on my master deegree in physics at UFRJ
 
-- Focus on scientific computation, usually implementing physical models
-- Love images!
+- Scientific computation, usually implementing physical models
+- Love images and statistcs!
 - And acquisition methods... MRI, Ultrasound, pictures... :)
 
 <!---
