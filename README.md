@@ -1,8 +1,8 @@
-- Currently focused on my master deegree in physics at UFRJ
+- Currently focused on my phd
 
 - Scientific computation, usually implementing physical models
 - Love images and statistcs!
-- And acquisition methods... MRI, Ultrasound, pictures... :)
+
 
 <!---
 hmynssen/hmynssen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
